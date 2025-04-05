@@ -8,6 +8,7 @@ body {
 }
 
 .container {
+  text-align: center;
   background: rgb(240, 243, 243);
   padding: 20px;
   border-radius: 12px;
